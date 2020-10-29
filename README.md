@@ -16,7 +16,7 @@ Laura Nunes Fochi - 256469
 
 Victor Calebe Fernandes da Silva - 194664
 
-[Abrir no Colab](https://colab.research.google.com/drive/1YSc3qq7AAp8qnN61uN94FdAlkC5Lm19b?usp=sharing) 
+[Abrir no Colab](https://colab.research.google.com/drive/16p_c_MeCnnHS5jp8dHtl2Xg37qY_EuuC?usp=sharing) 
 
 
 
